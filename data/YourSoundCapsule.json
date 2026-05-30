@@ -1,0 +1,390 @@
+{
+  "stats" : [ {
+    "date" : "2026-01-05",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "Blessed",
+      "streamCount" : 11,
+      "secondsPlayed" : 2585
+    }, {
+      "name" : "Falling Slow",
+      "streamCount" : 10,
+      "secondsPlayed" : 1822
+    }, {
+      "name" : "Why Did I Choose You - Alternate Vocal Version",
+      "streamCount" : 7,
+      "secondsPlayed" : 1092
+    }, {
+      "name" : "Golden Skin",
+      "streamCount" : 6,
+      "secondsPlayed" : 983
+    }, {
+      "name" : "Be That Easy",
+      "streamCount" : 5,
+      "secondsPlayed" : 797
+    }, {
+      "name" : "Autumn's Song",
+      "streamCount" : 5,
+      "secondsPlayed" : 1007
+    }, {
+      "name" : "Who Knows",
+      "streamCount" : 5,
+      "secondsPlayed" : 897
+    }, {
+      "name" : "Light Comes Easy",
+      "streamCount" : 4,
+      "secondsPlayed" : 651
+    }, {
+      "name" : "One Day",
+      "streamCount" : 4,
+      "secondsPlayed" : 1022
+    }, {
+      "name" : "Staying",
+      "streamCount" : 3,
+      "secondsPlayed" : 360
+    } ],
+    "topArtists" : [ {
+      "name" : "Daniel Caesar",
+      "streamCount" : 30,
+      "secondsPlayed" : 6284
+    }, {
+      "name" : "Sienna Rose",
+      "streamCount" : 28,
+      "secondsPlayed" : 4741
+    }, {
+      "name" : "Marvin Gaye",
+      "streamCount" : 11,
+      "secondsPlayed" : 2032
+    }, {
+      "name" : "Stephen Day",
+      "streamCount" : 7,
+      "secondsPlayed" : 1265
+    }, {
+      "name" : "Mac Miller",
+      "streamCount" : 7,
+      "secondsPlayed" : 928
+    }, {
+      "name" : "iilwdc",
+      "streamCount" : 6,
+      "secondsPlayed" : 1135
+    }, {
+      "name" : "Sade",
+      "streamCount" : 5,
+      "secondsPlayed" : 797
+    }, {
+      "name" : "Olivia Dean",
+      "streamCount" : 4,
+      "secondsPlayed" : 710
+    }, {
+      "name" : "Malcolm Todd",
+      "streamCount" : 4,
+      "secondsPlayed" : 656
+    }, {
+      "name" : "Tyler, The Creator",
+      "streamCount" : 3,
+      "secondsPlayed" : 710
+    } ],
+    "topGenres" : [ ]
+  }, {
+    "date" : "2025-12-29",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "Marry You",
+      "streamCount" : 5,
+      "secondsPlayed" : 735
+    }, {
+      "name" : "yo brodie",
+      "streamCount" : 4,
+      "secondsPlayed" : 804
+    }, {
+      "name" : "Autumn's Song",
+      "streamCount" : 4,
+      "secondsPlayed" : 824
+    }, {
+      "name" : "Compromise",
+      "streamCount" : 3,
+      "secondsPlayed" : 639
+    }, {
+      "name" : "Root of all Evil",
+      "streamCount" : 3,
+      "secondsPlayed" : 529
+    }, {
+      "name" : "The Star-Crossed Lovers (aka Pretty Girl)",
+      "streamCount" : 2,
+      "secondsPlayed" : 480
+    }, {
+      "name" : "In the Meantime",
+      "streamCount" : 2,
+      "secondsPlayed" : 298
+    }, {
+      "name" : "Sometimes",
+      "streamCount" : 2,
+      "secondsPlayed" : 284
+    }, {
+      "name" : "BILLY",
+      "streamCount" : 2,
+      "secondsPlayed" : 225
+    }, {
+      "name" : "Tonight",
+      "streamCount" : 2,
+      "secondsPlayed" : 222
+    } ],
+    "topArtists" : [ {
+      "name" : "Daniel Caesar",
+      "streamCount" : 10,
+      "secondsPlayed" : 2204
+    }, {
+      "name" : "Bruno Mars",
+      "streamCount" : 7,
+      "secondsPlayed" : 1056
+    }, {
+      "name" : "Stephen Day",
+      "streamCount" : 6,
+      "secondsPlayed" : 1046
+    }, {
+      "name" : "ROLE MODEL",
+      "streamCount" : 5,
+      "secondsPlayed" : 979
+    }, {
+      "name" : "John Mayer",
+      "streamCount" : 5,
+      "secondsPlayed" : 747
+    }, {
+      "name" : "who.nate",
+      "streamCount" : 4,
+      "secondsPlayed" : 804
+    }, {
+      "name" : "iilwdc",
+      "streamCount" : 3,
+      "secondsPlayed" : 574
+    }, {
+      "name" : "Frank Ocean",
+      "streamCount" : 3,
+      "secondsPlayed" : 561
+    }, {
+      "name" : "Duke Ellington",
+      "streamCount" : 3,
+      "secondsPlayed" : 524
+    }, {
+      "name" : "Chet Baker",
+      "streamCount" : 2,
+      "secondsPlayed" : 576
+    } ],
+    "topGenres" : [ ]
+  }, {
+    "date" : "2025-12-22",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "yo brodie",
+      "streamCount" : 8,
+      "secondsPlayed" : 1534
+    }, {
+      "name" : "One Day",
+      "streamCount" : 6,
+      "secondsPlayed" : 1679
+    }, {
+      "name" : "Sometimes",
+      "streamCount" : 5,
+      "secondsPlayed" : 958
+    }, {
+      "name" : "NOT CUTE ANYMORE",
+      "streamCount" : 2,
+      "secondsPlayed" : 259
+    }, {
+      "name" : "PISTOL PACCIN",
+      "streamCount" : 2,
+      "secondsPlayed" : 227
+    }, {
+      "name" : "BILLY",
+      "streamCount" : 2,
+      "secondsPlayed" : 217
+    }, {
+      "name" : "I'll Come Running Back To You - Single Version With Dubs",
+      "streamCount" : 2,
+      "secondsPlayed" : 133
+    }, {
+      "name" : "Fight the Feeling (feat. Kendrick Lamar & Iman Omari)",
+      "streamCount" : 1,
+      "secondsPlayed" : 301
+    }, {
+      "name" : "Lapse in Reasoning",
+      "streamCount" : 1,
+      "secondsPlayed" : 252
+    }, {
+      "name" : "God Speed",
+      "streamCount" : 1,
+      "secondsPlayed" : 251
+    } ],
+    "topArtists" : [ {
+      "name" : "iilwdc",
+      "streamCount" : 14,
+      "secondsPlayed" : 3212
+    }, {
+      "name" : "who.nate",
+      "streamCount" : 8,
+      "secondsPlayed" : 1534
+    }, {
+      "name" : "Daniel Caesar",
+      "streamCount" : 3,
+      "secondsPlayed" : 539
+    }, {
+      "name" : "Zach Bryan",
+      "streamCount" : 2,
+      "secondsPlayed" : 455
+    }, {
+      "name" : "Mac DeMarco",
+      "streamCount" : 2,
+      "secondsPlayed" : 363
+    }, {
+      "name" : "Drake",
+      "streamCount" : 2,
+      "secondsPlayed" : 314
+    }, {
+      "name" : "BigXthaPlug",
+      "streamCount" : 3,
+      "secondsPlayed" : 266
+    }, {
+      "name" : "ILLIT",
+      "streamCount" : 2,
+      "secondsPlayed" : 259
+    }, {
+      "name" : "EsDeeKid",
+      "streamCount" : 2,
+      "secondsPlayed" : 255
+    }, {
+      "name" : "NLE Choppa",
+      "streamCount" : 2,
+      "secondsPlayed" : 227
+    } ],
+    "topGenres" : [ ]
+  } ],
+  "highlights" : [ {
+    "date" : "2026-01-11",
+    "highlightType" : "MILESTONE",
+    "multiEntityMilestoneHighlight" : {
+      "entities" : [ "Daniel Caesar", "Sienna Rose", "Marvin Gaye", "Blessed", "Falling Slow", "Why Did I Choose You - Alternate Vocal Version", "One Day", "Autumn's Song", "Golden Skin" ],
+      "milestoneListeningSeconds" : 31945
+    }
+  }, {
+    "date" : "2026-01-04",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Compromise",
+      "dayStreaks" : 3
+    }
+  }, {
+    "date" : "2025-12-28",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "yo brodie",
+      "streamCount" : 8
+    }
+  }, {
+    "date" : "2025-12-21",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Daniel Caesar",
+      "dayStreaks" : 7
+    }
+  }, {
+    "date" : "2025-12-14",
+    "highlightType" : "YOU_STAND_OUT",
+    "youStandOutHighlight" : {
+      "entity" : "Zach Bryan",
+      "country" : "US",
+      "secondsPlayed" : 5438,
+      "marketAvgSecondsPlayed" : 1167.9662
+    }
+  }, {
+    "date" : "2025-12-07",
+    "highlightType" : "UNLIKE_COMBINATION",
+    "unlikeCombinationHighlight" : {
+      "firstEntity" : "Rich Nigga Shit (feat. Young Thug)",
+      "secondEntity" : "I'd Miss the Birds (feat. Sheryl Crow)"
+    }
+  }, {
+    "date" : "2025-11-30",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "Touching God (Feat. Yebba & Blood Orange)",
+      "streamCount" : 5
+    }
+  }, {
+    "date" : "2025-11-23",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "\uD83C\uDFA7",
+      "listeningPercentage" : 45.106272829244446
+    }
+  }, {
+    "date" : "2025-11-16",
+    "highlightType" : "MILESTONE",
+    "milestoneHighlight" : {
+      "entity" : "Daniel Caesar",
+      "milestoneListeningSeconds" : 12386
+    }
+  }, {
+    "date" : "2025-11-09",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Loving You On My Mind",
+      "dayStreaks" : 5
+    }
+  }, {
+    "date" : "2025-11-02",
+    "highlightType" : "FIRST_TO_DISCOVER",
+    "firstToDiscoverHighlight" : {
+      "entity" : "Haunted Heart",
+      "country" : "US",
+      "position" : 6772
+    }
+  }, {
+    "date" : "2025-10-26",
+    "highlightType" : "YOU_STAND_OUT",
+    "youStandOutHighlight" : {
+      "entity" : "Daniel Caesar",
+      "country" : "US",
+      "secondsPlayed" : 7378,
+      "marketAvgSecondsPlayed" : 1357.241
+    }
+  }, {
+    "date" : "2025-10-19",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "Just To Keep You Satisfied",
+      "streamCount" : 12
+    }
+  }, {
+    "date" : "2025-10-12",
+    "highlightType" : "MILESTONE",
+    "multiEntityMilestoneHighlight" : {
+      "entities" : [ "Sam Smith", "Tyler, The Creator", "GIVĒON", "Dancing in the Smoke - From the Netflix Series \"Nobody Wants This\" Season 2", "Lay Me Down", "I'm Not The Only One", "XO", "I'm Not In Love", "Always" ],
+      "milestoneListeningSeconds" : 59034
+    }
+  }, {
+    "date" : "2025-10-05",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Always",
+      "dayStreaks" : 7
+    }
+  }, {
+    "date" : "2025-09-28",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "I'll Fly Away",
+      "streamCount" : 18
+    }
+  }, {
+    "date" : "2025-09-21",
+    "highlightType" : "FIRST_TO_DISCOVER",
+    "firstToDiscoverHighlight" : {
+      "entity" : "Was It You",
+      "country" : "US",
+      "position" : 1509
+    }
+  } ]
+}

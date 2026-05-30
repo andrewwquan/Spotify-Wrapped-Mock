@@ -1,0 +1,92 @@
+{
+  "topArtists" : {
+    "numUniqueArtists" : 1364,
+    "topArtists" : [ {
+      "artistUri" : "spotify:artist:20wkVLutqVOYrc0kxFs7rA"
+    }, {
+      "artistUri" : "spotify:artist:4V8LLVI7PbaPR0K2TGSxFF"
+    }, {
+      "artistUri" : "spotify:artist:5069JTmv5ZDyPeZaCCXiCg"
+    }, {
+      "artistUri" : "spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM"
+    }, {
+      "artistUri" : "spotify:artist:1U1el3k54VvEUzo3ybLPlM"
+    } ],
+    "topArtistMilliseconds" : 297016326,
+    "topArtistFanPercentage" : 4.734401E-4
+  },
+  "topPodcasts" : {
+    "topPodcastsUri" : [ ],
+    "topPodcastPercentage" : 0.0,
+    "totalPodcastMilliseconds" : 149770
+  },
+  "topTracks" : {
+    "topTracks" : [ "spotify:track:2aaCNg42RA74s0EmHTBqS7", "spotify:track:7EAMXbLcL0qXmciM5SwMh2", "spotify:track:4XQnhcwRPRmGG4E6PakLMb", "spotify:track:7BsB19lhDNnk1MgULMyv5p", "spotify:track:1Mza2sr6tPhy6jjI3HB9fW" ],
+    "topTrackPlayCount" : 136,
+    "topTrackFirstPlayedDate" : "2024-01-23",
+    "distinctTracksPlayed" : 2375
+  },
+  "yearlyMetrics" : {
+    "totalMsListened" : 2960139324,
+    "mostListenedDay" : "2024-09-24",
+    "mostListenedDayMinutes" : 379.91608,
+    "percentGreaterThanWorldwideUsers" : 95.42175
+  },
+  "musicEvolution" : {
+    "eras" : [ {
+      "key" : "0",
+      "peakMonth" : 2,
+      "color" : "green-blue",
+      "genre" : "classical",
+      "mood" : "royalcore",
+      "descriptor" : "ballroom",
+      "pivotalArtists" : [ "spotify:artist:4NJhFmfw43RLBLjQvxDuRS", "spotify:artist:3MKCzCnpzw3TjUYs2v7vDA", "spotify:artist:6s1pCNXcbdtQJlsnM1hRIA" ],
+      "tracks" : [ {
+        "trackName" : "Mendelssohn: Violin Concerto in E Minor, Op. 64, MWV O14: III. Allegretto non troppo - Allegro molto vivace",
+        "trackUri" : "spotify:track:6JuCYAloN3d0KCAaBaovxO"
+      }, {
+        "trackName" : "Mia & Sebastian’s Theme",
+        "trackUri" : "spotify:track:1Vk4yRsz0iBzDiZEoFMQyv"
+      }, {
+        "trackName" : "Divertimento in F Major, K. 138, \"Salzburg Symphony No. 3\": I. Allegro",
+        "trackUri" : "spotify:track:3i7lXIoA9eLkb7tspHEpxL"
+      } ]
+    }, {
+      "key" : "1",
+      "peakMonth" : 3,
+      "color" : "red-blue",
+      "genre" : "k-indie",
+      "mood" : "vlog",
+      "descriptor" : "instrumental",
+      "pivotalArtists" : [ "spotify:artist:5069JTmv5ZDyPeZaCCXiCg", "spotify:artist:7H5EC2qaylGun66YeRrVHg", "spotify:artist:7MnWezV00qoqnc9aeG0gxg" ],
+      "tracks" : [ {
+        "trackName" : "Wings",
+        "trackUri" : "spotify:track:4XQnhcwRPRmGG4E6PakLMb"
+      }, {
+        "trackName" : "summer, night (feat. wave to earth)",
+        "trackUri" : "spotify:track:7BsB19lhDNnk1MgULMyv5p"
+      }, {
+        "trackName" : "love.",
+        "trackUri" : "spotify:track:5rDXfGMWI6S8wkXR0MHsvv"
+      } ]
+    }, {
+      "key" : "2",
+      "peakMonth" : 8,
+      "color" : "red-blue",
+      "genre" : "r&b",
+      "mood" : "softie",
+      "descriptor" : "slow dance",
+      "pivotalArtists" : [ "spotify:artist:20wkVLutqVOYrc0kxFs7rA", "spotify:artist:3tlXnStJ1fFhdScmQeLpuG", "spotify:artist:7tYKF4w9nC0nq9CsPZTHyP" ],
+      "tracks" : [ {
+        "trackName" : "Hold Me Down",
+        "trackUri" : "spotify:track:1Mza2sr6tPhy6jjI3HB9fW"
+      }, {
+        "trackName" : "Toronto 2014 (with Mustafa)",
+        "trackUri" : "spotify:track:4t9R5rbtovdvya28uMODDz"
+      }, {
+        "trackName" : "Best Part (feat. H.E.R.)",
+        "trackUri" : "spotify:track:1RMJOxR6GRPsBHL8qeC2ux"
+      } ]
+    } ]
+  }
+}
